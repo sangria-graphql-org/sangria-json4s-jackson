@@ -22,7 +22,7 @@ libraryDependencies ++= Seq(
   "org.sangria-graphql" %% "sangria-marshalling-api" % "1.0.0",
   "org.json4s" %% "json4s-jackson" % "3.5.0",
 
-  "org.sangria-graphql" %% "sangria-marshalling-testkit" % "1.0.0" % "test",
+  "org.sangria-graphql" %% "sangria-marshalling-testkit" % "1.0.2" % "test",
   "org.scalatest" %% "scalatest" % "3.0.1" % "test"
 )
 
