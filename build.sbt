@@ -23,7 +23,7 @@ libraryDependencies ++= Seq(
   "org.json4s" %% "json4s-jackson" % "3.5.0",
 
   "org.sangria-graphql" %% "sangria-marshalling-testkit" % "1.0.0" % "test",
-  "org.scalatest" %% "scalatest" % "3.0.1" % "test"
+  "org.scalatest" %% "scalatest" % "3.0.8" % "test"
 )
 
 git.remoteRepo := "git@github.com:sangria-graphql/sangria-json4s-jackson.git"
